@@ -29,6 +29,8 @@ NaijaHomes runs as one platform with two portals:
 ## Vision
 To simplify renting and property management across Nigeria, starting city by city.
 
+## Mission
+To become the trusted infrastructure powering residential rentals across Africa.
 
 📫 Contact:
 Website: https://naijahomes.com
