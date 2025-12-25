@@ -130,13 +130,3 @@ To become Nigeria’s most trusted real estate operating system — starting wit
 Website: https://naijahomes.com
 
 GitHub: https://github.com/NaijaHomes
-
-If you want next, I can:
-
-Trim this for a leaner startup version
-
-Rewrite it for investor-facing tone
-
-Align it tightly with your CBN documentation language
-
-Create the .github repo structure step-by-step
